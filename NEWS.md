@@ -16,6 +16,7 @@
 * `chat_snowflake()` now supports structured ouputs and standard model
   parameters (#544 and #545, @atheriel).
 * `chat_databricks()` now works with tool calling (#548, @atheriel).
+* `chat_snowflake()` now works with tool calling (#557, @atheriel).
 
 # ellmer 0.2.0
 
