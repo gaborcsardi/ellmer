@@ -14,4 +14,7 @@ _cache/
 ^[\.]?air\.toml$
 ^\.vscode$
 ^data-raw$
+^_dev$
 ^revdep$
+^\.claude$
+^CLAUDE\.md$
